@@ -929,7 +929,7 @@ img {
 }
 
 .form-container-input {
-  width: 358px;
+  width: 320px;
   height: 50px;
   background-color: transparent;
   border: 1px solid rgba(255, 255, 255, 0.3);
@@ -988,7 +988,7 @@ img {
     width: 24px;
     height: 24px;
     bottom: 0;
-    right: 110px;
+    right: 90px;
     transform: translateY(-50%);
   }
   .button-wrapper {
@@ -1009,7 +1009,7 @@ img {
     width: 24px;
     height: 24px;
     bottom: 0;
-    right: 110px;
+    right: 90px;
     transform: translateY(-50%);
   }
   .button-wrapper {
